@@ -10,7 +10,7 @@
 
 import urequests as requests
 
-url = "http://192.168.161.18:8000/"
+url = "http://<your IP address here>:8000/"
 
 response = requests.get(url)
 
